@@ -1,6 +1,6 @@
 import UIKit
 
-/// NOTE : The following data is just an example, you must provide it
+/// NOTE : The following data is just an example, you must provide your own data
 
 let PAYLOAD = """
 {"aps":{"content-available" : 1, "data":"Some Data"}}
