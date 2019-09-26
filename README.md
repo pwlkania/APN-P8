@@ -2,6 +2,8 @@
 
 If you were looking for solution to send a Push Notifications using Auth Key (P8), this repository may interest you.
 
+> Special thanks to @ethanhuang13 and his https://github.com/ethanhuang13/CupertinoJWT which is heavily used in this project. Thanks!
+
 ## Installation
 
 Just download `P8.playground` file and open it in Xcode.
